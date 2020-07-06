@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "namePrefix": {
-      "value": "GEN-UNIQUE-8"
+      "value": "GENX"
     },
     "existingDomainName": {
-      "value": "contoso.com"
+      "value": "contoso.local"
     },
     "adminUsername": {
-      "value": "AzureAdmin"
+      "value": "caAdmin"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
     },
     "existingVirtualNetworkName": {
-      "value": "vnet01"
+      "value": "SNOW-EASTUS2"
     },
     "existingVirtualNetworkRGName": {
-      "value": "rg01"
+      "value": "SNOW-EASTUS2"
     },    
     "existingSubnetName": {
       "value": "default"
